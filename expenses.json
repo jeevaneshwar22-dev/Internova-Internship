@@ -1,0 +1,9 @@
+[
+    {
+        "expense_id": 1,
+        "amount": 500.0,
+        "category": "Food",
+        "description": "Ate lunch at a hotel",
+        "date": "2026-10-18"
+    }
+]
