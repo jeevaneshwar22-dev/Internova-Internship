@@ -5,5 +5,19 @@
         "category": "Food",
         "description": "Lunch",
         "date": "2026-10-19"
+    },
+    {
+        "expense_id": 2,
+        "amount": 1000.0,
+        "category": "Travel",
+        "description": "Travelled in auto",
+        "date": "2026-10-19"
+    },
+    {
+        "expense_id": 3,
+        "amount": 100.0,
+        "category": "Books",
+        "description": "Bought a book",
+        "date": "2026-10-19"
     }
 ]

@@ -1,2 +1,4 @@
 ﻿expense_id,date,category,amount,description
 1,2026-10-19,Food,500.00,Lunch
+2,2026-10-19,Travel,1000.00,Travelled in auto
+3,2026-10-19,Books,100.00,Bought a book
